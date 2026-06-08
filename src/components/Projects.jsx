@@ -18,7 +18,7 @@ const projects = [
   tech: ["Python", "Flask", "HTML", "CSS", "JavaScript", "Gemini API"],
   github: "",
   demo: "https://study-assistant-1rs1.onrender.com",
-  featured: true,
+  featured: false,
  },
   {
     title: "Interactive Calculator",
