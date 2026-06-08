@@ -12,14 +12,14 @@ const projects = [
     featured: true,
   },
   {
-    title: "Smart Study Assistant",
-    description:
-      "AI-powered study companion designed to fetch relevant learning resources through external APIs and help students organize study materials efficiently.",
-    tech: ["HTML", "CSS", "JavaScript", "Python", "REST API"],
-    github: "",
-    demo: "",
-    featured: false,
-  },
+  title: "AI Study Assistant",
+  description:
+    "AI-powered study assistant built using Python and Gemini AI API. Helps students get instant answers, summaries, explanations, and study support through an interactive chatbot interface.",
+  tech: ["Python", "Flask", "HTML", "CSS", "JavaScript", "Gemini API"],
+  github: "",
+  demo: "https://study-assistant-1rs1.onrender.com",
+  featured: true,
+ },
   {
     title: "Interactive Calculator",
     description:
